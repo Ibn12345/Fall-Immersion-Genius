@@ -1,0 +1,11 @@
+/* Genius can add custom styles here if needed */
+
+.jumbotron {
+    background-image: url('/Images/brown_background.jpg');
+    background-size: cover;
+    color: #90EE90;
+    text-shadow: 4px 4px darkgreen;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
